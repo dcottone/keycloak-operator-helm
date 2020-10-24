@@ -59,4 +59,4 @@ keycloakOperator:
   cleanupCustomResource: true
   ## Name of the StorageClass for Postgresql Persistent Volume
   ##
-  storageClassName:
+  storageClassName: default-storage-class
